@@ -1,5 +1,5 @@
-# SQ-test-repo
-<h>This is my first test on Github<\h>
+# Analyzing Action Potential
+<h>authored by Y Cui<\h>
 
 The following is the writing space for the file repository
 
