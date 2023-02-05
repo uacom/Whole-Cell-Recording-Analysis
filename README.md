@@ -1,17 +1,21 @@
 
 # Scripts used for analysis and graphing of whole cell data
-\
-\
-\
-\ 
 
+## Analyzing mEPSC amplitude and frequency
+<br>
+<br>
+Filtering LFP, bandpass filter, miniature EPSC events amplitude and frequency plots 
+<br>
+<br>
+mEPSC_analysis.m
+<br>
 
-# Analyzing Action Potential
-<h>Authored by Y Cui
+![mEPSC amplitude](https://user-images.githubusercontent.com/117530949/216851043-246d0295-72b1-4400-be87-c4e9de6009c6.JPG)
 
-The following is a tempory holder file until real analysis figure is provided \
-\
-\
+## Analyzing Action Potential
+<br>
+<br>
+<br>
 
-![image](https://user-images.githubusercontent.com/117530949/213501535-c1abf6b5-0c58-45a9-b8ce-8dab2fc857d4.png)
+![AP_analyze](https://user-images.githubusercontent.com/117530949/216851763-63bc7b11-c2de-4e80-ab9b-13211044005f.JPG)
 
