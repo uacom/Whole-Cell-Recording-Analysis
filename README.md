@@ -1,5 +1,9 @@
-<br>
+
 # Scripts used for analysis and graphing of whole cell data
+\
+\
+\
+\ 
 
 
 # Analyzing Action Potential
