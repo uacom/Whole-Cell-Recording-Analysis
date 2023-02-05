@@ -2,7 +2,7 @@
 # Scripts used for analysis and graphing of whole cell data
 
 
-## Analyzing Action Potential
+# Analyzing Action Potential
 <h>Authored by Y Cui
 
 The following is a tempory holder file until real analysis figure is provided \
